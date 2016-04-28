@@ -40,3 +40,14 @@ systems.
     solution will be immediately apparent anyway.
 - The real trouble starts after this point, when changes start being needed.
 
+### Retrospective
+
+I guess I expected something entirely different solely due to my ignorance.
+Since the presenter as a consultant has obviously been seeing these things
+as stuff that needs to be introduced to his client companies, I will just
+assume that in their domain reuse concepts are not as fundamental and
+immediately apparent as when developing a web application. What's more is
+that the talk's subject was reuse for similar products, and not about code
+architecture or code sharing between just a few somewhat independent
+projects. I'll consider this a failure on my part. :see_no_evil:
+
