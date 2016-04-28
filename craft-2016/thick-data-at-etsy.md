@@ -5,7 +5,7 @@ http://beta.craft-conf.com/speaker/JohnAllspaw
 - The term thick data seems to be referring to non-quantitative data, such as
   written statements that use non-specific words, including 'I feel like' and
   the like. Or simply: qualitative data.
-  - 'Reason about' as an expression like this as well actually.
+  - 'Reason about' is an expression like this as well actually.
   - High volume, isolation, micro, etc. are other examples
   - 'I know it when I see it'
 - The Engineering Method: "The strategy for causing the best change in a
