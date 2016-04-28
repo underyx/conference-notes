@@ -54,5 +54,5 @@ http://beta.craft-conf.com/speaker/MitchellHashimoto
 - All of this is open source by the way
 - Best practice is to run more Vault servers than you think you need to need
   'unsealing ceremonies' only once a week/month for the servers that die.
-- Note: ACTION: Use Vault. Seriously.
+- Note: TODO: Use Vault. Seriously.
 

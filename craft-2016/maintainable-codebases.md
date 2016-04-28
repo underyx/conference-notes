@@ -4,7 +4,7 @@ http://beta.craft-conf.com/speaker/AdamTornhill
 
 - Visualize hotspots with circles, size represents complexity, color represents change frequency
 - Hotspots make up ~5% of a codebase
-- **ACTION: check for these hotspots**
+- **TODO: check for these hotspots**
 - Difficult to manually find hotspots cause of biases
   - You see with your brain, not your eyes, so it's easy to miss these kinds of things
   - This is backed by multiple studies, one of them the basketball-gorilla thing, the other had

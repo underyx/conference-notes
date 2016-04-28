@@ -28,7 +28,7 @@ http://beta.craft-conf.com/speaker/JohnAllspaw
     otherwise the engineers don't remember.
 - Book 'Talking about machines', author spent lotsa time with photocopier
   repair technicians.
-  - ACTION: Read this!
+  - TODO: Read this!
   - They didn't put too much faith in the manuals, they relied mostly on each
     others' stories over lunch. Including where the manual was wrong.
   - Paraphrased: 'The hardest part of diagnosis is making sense out of a

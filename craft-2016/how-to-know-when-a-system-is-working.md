@@ -38,7 +38,7 @@ Presenter is the founder of CFEngine
     than inputs, compicating the flow (?), and some simplify it by reducing the number of possible outcomes
 - Confidence intervals should be considered when measuring
   - If you make assumptions less specific your results will be less certain as well
-- Note: ACTION: Try distribution charts/histograms on timeseries metrics
+- Note: TODO: Try distribution charts/histograms on timeseries metrics
 - Scaling has two steps, we first scale things to take less time, and then we dehumanize them and scale the space
   needed to do them.
 - Huge messes can work better, modularity is not scalable

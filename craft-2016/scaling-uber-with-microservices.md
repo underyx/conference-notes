@@ -33,9 +33,9 @@ http://beta.craft-conf.com/speaker/MattRanney
 - You often still need to look at your microservice in the whole system's
   context.
 - Flamegraph are awesome.
-- ACTION: Check flamegraph tools for Python.
+- TODO: Check flamegraph tools for Python.
 - You should have a standard set of metrics for all your services.
-- ACTION: Check out `cpustat`.
+- TODO: Check out `cpustat`.
 - Even if you don't spend engineer time on getting good performance, you need
   to measure it, in all cases.
 - If you have bad p99 response times on your microservices, the more you
@@ -49,7 +49,7 @@ http://beta.craft-conf.com/speaker/MattRanney
   - Logging is surprisingly expensive, can amplify issues.
   - Teams need to know how much of the infrastructure they are consuming with
     all those logs.
-  - ACTION: Check Uber's logging libraries.
+  - TODO: Check Uber's logging libraries.
 - Have simple performance requirements/default SLAs, something like 99p
   response should be <5s.
 - Synthetic load should be on production basically all the time, so all system
