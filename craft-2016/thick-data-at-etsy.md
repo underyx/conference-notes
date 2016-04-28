@@ -9,7 +9,7 @@ http://beta.craft-conf.com/speaker/JohnAllspaw
   - High volume, isolation, micro, etc. are other examples
   - 'I know it when I see it'
 - The Engineering Method: "The strategy for causing the best change in a
-  poorly undersood ot uncertain environment with limited resources."
+  poorly understood or uncertain environment with limited resources."
 - We're doing complex work, and when we're successful, it's largely invisible.
   - Such as an 'LGTM' that doesn't really reflect how much thought went into
     making that comment.
