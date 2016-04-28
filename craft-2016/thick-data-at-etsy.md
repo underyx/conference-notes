@@ -42,4 +42,6 @@ http://beta.craft-conf.com/speaker/JohnAllspaw
 - Basically the takeaway is that we need to analyze qualitative data!
   - Tells you lots about personal development's circumstances.
   - Shape tools based on the results. Even stuff like shell aliases.
+- But to avoid mistakes, you should talk to psychologists/social scientists,
+  'folk models' and biases are fairly dangerous.
 
