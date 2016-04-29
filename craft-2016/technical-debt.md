@@ -9,13 +9,14 @@ http://beta.craft-conf.com/speaker/DocNorton
   - Prudent-Inadverent: 'Now we know we did it wrong'
   - Prudent-Deliberate: 'We know the consequences and we will deal with it'
 - Refactoring depends on clean code
-  - 'Dirty code to tech debt is what pawn broker is to financial debt; you'll:
+  - 'Dirty code to tech debt is what pawn broker is to financial debt; you'll
     never get your code back.' (paraphrased)
-- Ask if you have a plan to pay back, if the business knows about the problem,
-  and if no, you don't have technical debt — you have a *mess*. Or *cruft*.
+- Ask if you have a plan to pay back, and if the business knows about the
+  problem. If the answer is no, you don't have technical debt — you have a
+  *mess*. Or *cruft*.
   - The differentiation matters because technical debt is actually good.
 - When looking at other industries it gets obvious that 'constructional
-  debt' and 'mechanical debt' would be:
+  debt' and 'mechanical debt' would be ridiculous:
   - Reckless-Inadverent is incompetent, like a surgeon's mistake would be
   - Reckless-Deliberate is irresponsible, like a misconstructed house or
     car would be
@@ -38,10 +39,12 @@ http://beta.craft-conf.com/speaker/DocNorton
 - Note: See chart on comparing the cleaning sprint approach and the constant
   cleaning approach.
 - Monitor cruft through coverage, complexity, coupling, and maintainability
+  metrics
   - According to CodeClimate, there's a direct correlation between lines of
     code and code complexity
   - You should be looking at the trends, not the points.
-- By the way, technical debt is still a good thing. If you have a plan to pay
-  back and you carefully consider your decision.
-- TODO: Check SonarQube
+  - TODO: Check SonarQube
+- By the way, again, technical debt is still a good thing. If you have a plan
+  to pay it back and you carefully consider your decision.
+
 
