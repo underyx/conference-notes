@@ -33,4 +33,9 @@ http://beta.craft-conf.com/speaker/JezHumble
 - Test the obvious with data. You should see some surprises and some confirmed
   hypotheses as well, otherwise something is wrong.
 - Devops culture definitely has a measurable positive impact on IT.
+- Add test automation to high value features and to new developments when you
+  are working with lots of legacy code.
+- People take buzzwords and redefine them to fit what they're doing, like with
+  CI and microservices.
+  - Note: So, so true.
 
