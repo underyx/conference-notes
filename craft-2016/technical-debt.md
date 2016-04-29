@@ -30,8 +30,8 @@ http://beta.craft-conf.com/speaker/DocNorton
   should never make an intentional mess.
   - Follow the Boy Scout Rule: leave the codebase better than you found it.
     The small incremental changes will add up over time.
-- **You should never have to ask permission to do your job correctly**. It's
-  our professional responsibility.
+- **You should never have to ask for permission to do your job correctly**.
+  It's our professional responsibility.
   - Actually, you should just not ask for permission. We're in high demand —
     if you get fired for doing the right thing, there will be another
     company who wants to hire you for exactly that.
