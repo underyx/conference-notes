@@ -30,7 +30,7 @@ http://beta.craft-conf.com/speaker/AdrianMouat
   tasks and report resources, while the Mesos Master delegates tasks. Zookeeper
   is used as a HA database for all this data, and then you even need some
   framework that coordinates with the master, like Marathon or Aurora.
-- Narathon works with simple RESTful endpoints, and has a nice web UI
+- Marathon works with simple RESTful endpoints, and has a nice web UI
 - Add Traefik as well which gets the dest IPs and ports and you can use it to
   get a load balanced service.
 - Mesos is pretty battle-tested but needs 3rd party tools and is not especially
