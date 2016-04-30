@@ -26,7 +26,7 @@ http://beta.craft-conf.com/speaker/JohnAllspaw
     a good way to describe this. It's really cool though.
   - Interviews work only if you have this data and explicitly ask about it,
     otherwise the engineers don't remember.
-- Book 'Talking about machines', author spent lotsa time with photocopier
+- Book 'Talking about machines', author spent a lot of time with photocopier
   repair technicians.
   - TODO: Read this!
   - They didn't put too much faith in the manuals, they relied mostly on each
