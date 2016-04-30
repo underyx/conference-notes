@@ -15,11 +15,11 @@ http://beta.craft-conf.com/speaker/DanNorth
   - The last category include most code written by others or yourself 6 months
     ago
 - Code no one knows needs to be either stabilized or kill off **fast**.
-- Story about one of the best and most productive software teams presente
+- Story about one of the best and most productive software teams presenter
   has seen: they had really short *software half-life*, half the codebase
   was changed every six weeks.
 - Devs should have no emotional attachment to any of their code to let this
-  happen
+  happenpr
 - Write discrete components and have clear component boundaries, purposes
   and responsibilities.
 - You will need to invest in stabilizing part of the code
