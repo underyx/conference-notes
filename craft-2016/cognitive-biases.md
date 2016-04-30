@@ -7,7 +7,7 @@ http://beta.craft-conf.com/speaker/JonathanKlein
   required, company decides to cut corners, they ship some crap in 6 weeks,
   and loses the customer.
 - Here we have projection bias: people don't realize there are others with
-  different priorities and attitutes.
+  different priorities and attitudes.
   - Solve this with role switching.
 - We also had the manager with the planning fallacy: always underestimating.
   - Solve this with prototyping, using past information, and planning poker.
