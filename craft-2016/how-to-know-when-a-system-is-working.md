@@ -1,6 +1,6 @@
 # How do we know IT systems are working well?
 
-http://beta.craft-conf.com/speaker/MarkBurgess
+https://www.youtube.com/watch?v=gSjkvKdaKTQ
 
 Presenter is the founder of CFEngine
 
